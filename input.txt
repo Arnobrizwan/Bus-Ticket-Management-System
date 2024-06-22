@@ -1,0 +1,100 @@
+B001,Express Bus,40
+B002,Express Bus,45
+B003,Express Bus,50
+B004,Express Bus,55
+B005,Cityliner,30
+B006,Cityliner,35
+B007,Cityliner,40
+B008,Cityliner,45
+B009,Transnasional,50
+B010,Transnasional,55
+B011,Transnasional,60
+B012,Transnasional,65
+B013,Plusliner,40
+B014,Plusliner,45
+B015,Plusliner,50
+B016,Plusliner,55
+B017,Super Nice,50
+B018,Super Nice,55
+B019,Super Nice,60
+B020,Super Nice,65
+B021,Etika Express,42
+B022,Etika Express,47
+B023,Etika Express,52
+B024,Etika Express,57
+B025,Mayang Sari,38
+B026,Mayang Sari,43
+B027,Mayang Sari,48
+B028,Mayang Sari,53
+B029,Unititi Express,44
+B030,Unititi Express,49
+B031,Unititi Express,54
+B032,Unititi Express,59
+B033,Perdana Express,41
+B034,Perdana Express,46
+B035,Perdana Express,51
+B036,Perdana Express,56
+B037,KKKL Express,47
+B038,KKKL Express,52
+B039,KKKL Express,57
+B040,KKKL Express,62
+B041,MARA Liner,39
+B042,MARA Liner,44
+B043,MARA Liner,49
+B044,MARA Liner,54
+B045,TBS Express,43
+B046,TBS Express,48
+B047,TBS Express,53
+B048,TBS Express,58
+B049,Ekspres Mutiara,48
+B050,Ekspres Mutiara,53
+B051,Ekspres Mutiara,58
+B052,Ekspres Mutiara,63
+B053,Alisan Golden Coach,36
+B054,Alisan Golden Coach,41
+B055,Alisan Golden Coach,46
+B056,Alisan Golden Coach,51
+B057,Cosmic Express,37
+B058,Cosmic Express,42
+B059,Cosmic Express,47
+B060,Cosmic Express,52
+B061,LA Holidays,46
+B062,LA Holidays,51
+B063,LA Holidays,56
+B064,LA Holidays,61
+B065,Intercity Coach,45
+B066,Intercity Coach,50
+B067,Intercity Coach,55
+B068,Intercity Coach,60
+B069,Eltabina Jaya Express,50
+B070,Eltabina Jaya Express,55
+B071,Eltabina Jaya Express,60
+B072,Eltabina Jaya Express,65
+B073,Billion Stars Express,49
+B074,Billion Stars Express,54
+B075,Billion Stars Express,59
+B076,Billion Stars Express,64
+B077,Star Shuttle,35
+B078,Star Shuttle,40
+B079,Star Shuttle,45
+B080,Star Shuttle,50
+B081,Consortium Express,38
+B082,Consortium Express,43
+B083,Consortium Express,48
+B084,Consortium Express,53
+B085,YoYo Express,37
+B086,YoYo Express,42
+B087,YoYo Express,47
+B088,YoYo Express,52
+B089,Five Stars Express,44
+B090,Five Stars Express,49
+B091,Five Stars Express,54
+B092,Five Stars Express,59
+B093,Sri Maju,40
+B094,Sri Maju,45
+B095,Sri Maju,50
+B096,Sri Maju,55
+B097,Seasons Express,41
+B098,Seasons Express,46
+B099,Seasons Express,51
+B100,Seasons Express,56
