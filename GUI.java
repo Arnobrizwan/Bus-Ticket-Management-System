@@ -52,7 +52,6 @@ public class GUI {
     }
 
     private void bookTicket() {
-        // Example implementation for booking a ticket
         String passengerName = JOptionPane.showInputDialog(frame, "Enter Passenger Name:");
         String busNumber = JOptionPane.showInputDialog(frame, "Enter Bus Number:");
         String seatNumber = JOptionPane.showInputDialog(frame, "Enter Seat Number:");
@@ -76,7 +75,6 @@ public class GUI {
     }
 
     private void generateReport() {
-        // Example implementation for generating a report
         String busNumber = JOptionPane.showInputDialog(frame, "Enter Bus Number for Report:");
         Bus bus = system.findBusById(busNumber);
         if (bus != null) {
@@ -89,7 +87,7 @@ public class GUI {
 
     public static void main(String[] args) {
         BusTicketManagementSystem system = new BusTicketManagementSystem();
+        system.loadBusesFromFile("input.txt"); // Load buses from input file
         new GUI(system);
     }
 }
-
